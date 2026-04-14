@@ -16,7 +16,7 @@ function App(){
     <Route path="/Exams" component={Exams} />
 
     </Routes>
-    <div className="flex justify-center space-x-4 mt-4">
+    <div className="flex justify-center space-x-4 mt-4 p-4">
     <Link to="/">Home</Link>
     <Link to="/AboutUs">AboutUs</Link>
     <Link to="/Modules">Modules</Link>
